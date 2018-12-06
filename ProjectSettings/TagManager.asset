@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Enemy
+  - EnemyBorder
+  - Mission
+  - BlueButton
+  - GreenKey
+  - RedButton
+  - RedLock
+  - EnemyProjectile
+  - SpikeBallBorder
+  - Spikes
+  - RatBorderDetection
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 'PlayerHitDetection '
+  - Ground
+  - EnemyBorder
+  - Enemy
+  - Spikes
+  - GreenKey
+  - GreenLock
+  - Bridge
+  - SpikeBallBorder
+  - RatBorderDetection
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
