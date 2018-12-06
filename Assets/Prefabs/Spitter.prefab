@@ -78,8 +78,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 155e4fa79dedd0946a4873d75ed48ad9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpikeBall: {fileID: 1431574263318966, guid: e3dcc438af56412429e379eb9045f81c, type: 2}
-  SpawnTimer: 4
+  spikeBall: {fileID: 1431574263318966, guid: e3dcc438af56412429e379eb9045f81c, type: 2}
+  spawnTimer: 2
 --- !u!212 &212595371028856442
 SpriteRenderer:
   m_ObjectHideFlags: 1

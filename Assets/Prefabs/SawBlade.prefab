@@ -91,7 +91,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rbody: {fileID: 50811777526208912}
   vX: -3
-  vY: -0.2
+  vY: 0
   rotate: 20
 --- !u!212 &212253512466868168
 SpriteRenderer:

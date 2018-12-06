@@ -90,7 +90,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rbody: {fileID: 50290336464983506}
-  SawBlade: {fileID: 1916586902737586, guid: ca47c7032b257db4f90394c365343c8d, type: 2}
+  sawBlade: {fileID: 1916586902737586, guid: ca47c7032b257db4f90394c365343c8d, type: 2}
   vX: -2
   Vy: 3
 --- !u!212 &212206996570369314

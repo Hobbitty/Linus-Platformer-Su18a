@@ -26,6 +26,7 @@ public class CoinMechanics : MonoBehaviour
                 }
             }
 
+            //sedan förstör sig själv
             Destroy(gameObject);
         }
     }

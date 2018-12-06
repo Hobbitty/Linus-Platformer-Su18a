@@ -24,14 +24,14 @@ public class BlueLockScript : MonoBehaviour
             else
             {
                 //annars får jag ett error
-                //ps. Kan ha varit lite trött på att fixa scriptet så förlåt för språket
-                Debug.LogError("Kan inte hitta skiten");
+                Debug.LogError("Kan inte hitta blueButtonScript");
             }
-
         }
         else
         {
             Debug.LogError("kAN INTE hitta button");
         }
+
+        //jag hade kunnat skippa 70% av scriptet ifall jag bara hade gjort Public BlueButtonScript blueButtonScript
     }
 }
